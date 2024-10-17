@@ -1,5 +1,3 @@
-getgenv().isSynapseV3 = not not gethui;
-
 getgenv().disableenvprotection = function() end;
 getgenv().enableenvprotection = function() end;
 
